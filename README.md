@@ -1,3 +1,3 @@
 # HR-Analytics!
 
-[Uploading Screenshot (291).png…]()
+![Project screenshot](https://github.com/OmkarBingewar/HR-Analytics/blob/main/Screenshot%20(291).png)
